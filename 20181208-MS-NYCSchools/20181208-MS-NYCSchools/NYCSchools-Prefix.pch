@@ -1,0 +1,18 @@
+
+//
+//  NYCSchools-Prefix.pch
+//  20181208-MS-NYCSchools
+//
+//  Created by Manjusha Satheesh Sabu on 12/9/18.
+//  Copyright © 2018 msabu. All rights reserved.
+//
+
+#ifndef NYCSchools_Prefix_pch
+#define NYCSchools_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "CommonDefines.h"
+#import "SchoolInfo.h"
+
+#endif /* NYCSchools_Prefix_pch */
